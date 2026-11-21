@@ -1,0 +1,6 @@
+sample/
+output/
+cache.sqlite3
+.env
+__pycache__/
+*.pyc
